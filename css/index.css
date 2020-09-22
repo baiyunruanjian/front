@@ -1,0 +1,42 @@
+* { margin: 0; padding: 0;
+}
+html, body { height: 100%;
+}
+body { position: relative;
+}
+ul { list-style: none;
+}
+text-left { text-align: left;
+}
+.text-center { text-align: center;
+}
+.text-right { text-align: right;
+}
+.f24 { font-size: 24px;
+}
+.f18 { font-size: 18px;
+}
+.f16 { font-size: 16px;
+}
+.f14 { font-size: 14px;
+}
+.f12 { font-size: 12px;
+}
+.clr { clear: both;
+}
+
+
+.custom .el-dialog .el-dialog__header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 40px 0;
+}
+.custom .el-dialog .el-dialog__body {
+  padding: 0;
+  overflow: hidden;
+}
+
+
+/*# sourceMappingURL=index.css.map?v=478d*/
