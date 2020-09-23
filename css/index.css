@@ -6,11 +6,13 @@ body { position: relative;
 }
 ul { list-style: none;
 }
-text-left { text-align: left;
+.text-left { text-align: left;
 }
 .text-center { text-align: center;
 }
 .text-right { text-align: right;
+}
+.block { display: block;
 }
 .f24 { font-size: 24px;
 }
@@ -39,4 +41,4 @@ text-left { text-align: left;
 }
 
 
-/*# sourceMappingURL=index.css.map?v=478d*/
+/*# sourceMappingURL=index.css.map?v=655d*/
