@@ -166,57 +166,57 @@
   text-shadow: rgba(255, 255, 255, 0.8) 1px 0 0, rgba(255, 255, 255, 0.8) 0 1px 0, rgba(255, 255, 255, 0.8) -1px 0 0, rgba(255, 255, 255, 0.8) 0 -1px 0;
 }
 
-.product_buy input[data-v-1027ddba],
-.product_buy textarea[data-v-1027ddba] {
+.product_buy input[data-v-1c7a950a],
+.product_buy textarea[data-v-1c7a950a] {
   padding: 5px 10px;
   box-sizing: border-box;
   background: #fff;
   border: 1px solid #444;
 }
-.product_buy .hd[data-v-1027ddba] {
+.product_buy .hd[data-v-1c7a950a] {
   text-align: center;
   font-size: 26px;
   padding: 20px 0;
 }
-.product_buy .form[data-v-1027ddba] {
+.product_buy .form[data-v-1c7a950a] {
   padding: 0 40px;
 }
-.product_buy .form dl[data-v-1027ddba] {
+.product_buy .form dl[data-v-1c7a950a] {
   overflow: hidden;
   margin-bottom: 10px;
 }
-.product_buy .form dl dd[data-v-1027ddba] {
+.product_buy .form dl dd[data-v-1c7a950a] {
   float: left;
   width: 33.33%;
   padding-right: 5px;
   box-sizing: border-box;
 }
-.product_buy .form dl dd label[data-v-1027ddba] {
+.product_buy .form dl dd label[data-v-1c7a950a] {
   display: inline-block;
   width: 70px;
   margin-right: 5px;
 }
-.product_buy .form dl dd input[data-v-1027ddba] {
+.product_buy .form dl dd input[data-v-1c7a950a] {
   width: 100px;
 }
-.product_buy .form .textarea[data-v-1027ddba] {
+.product_buy .form .textarea[data-v-1c7a950a] {
   position: relative;
 }
-.product_buy .form .textarea textarea[data-v-1027ddba] {
+.product_buy .form .textarea textarea[data-v-1c7a950a] {
   width: 100%;
   height: 300px;
   margin-bottom: 10px;
 }
-.product_buy .form .textarea span[data-v-1027ddba] {
+.product_buy .form .textarea span[data-v-1c7a950a] {
   position: absolute;
   left: 10px;
   bottom: 20px;
   color: #aaa;
 }
-.product_buy .bm[data-v-1027ddba] {
+.product_buy .bm[data-v-1c7a950a] {
   padding: 0 50px 50px;
 }
-.product_buy .bm a[data-v-1027ddba] {
+.product_buy .bm a[data-v-1c7a950a] {
   font-size: 16px;
   color: #444;
   text-decoration: none;
@@ -338,4 +338,4 @@
 }
 
 
-/*# sourceMappingURL=Products.css.map?v=a1bf*/
+/*# sourceMappingURL=Products.css.map?v=d8d9*/
