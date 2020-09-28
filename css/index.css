@@ -6,11 +6,13 @@ body { position: relative;
 }
 ul { list-style: none;
 }
-text-left { text-align: left;
+.text-left { text-align: left;
 }
 .text-center { text-align: center;
 }
 .text-right { text-align: right;
+}
+.block { display: block;
 }
 .f24 { font-size: 24px;
 }
@@ -22,6 +24,10 @@ text-left { text-align: left;
 }
 .f12 { font-size: 12px;
 }
+.ll { float: left;
+}
+.rr { float: right;
+}
 .clr { clear: both;
 }
 
@@ -32,6 +38,7 @@ text-left { text-align: left;
   left: 0;
   width: 100%;
   padding: 40px 0;
+  z-index: 100;
 }
 .custom .el-dialog .el-dialog__body {
   padding: 0;
@@ -39,4 +46,4 @@ text-left { text-align: left;
 }
 
 
-/*# sourceMappingURL=index.css.map?v=478d*/
+/*# sourceMappingURL=index.css.map?v=1513*/
