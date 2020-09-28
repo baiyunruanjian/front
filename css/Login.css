@@ -1,27 +1,15 @@
-<<<<<<< HEAD
 .custom-alert[data-v-0daa8b92] {
-=======
-.custom-alert[data-v-d24280f4] {
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
   width: 260px;
   height: 180px;
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAAC0CAMAAABFa6L5AAAArlBMVEXy+/b///8Qf94VAgIXg9/r9/XN5/JjrehDm+QvkOIdhuAUgt/x+/bV6/Rmrerl9PXH5PJ5uOo9l+MmjOHD3/ft+fbc7/QrjuIiieAahN/+/v/y+P3k8fzg8fTE4vG/4PGo0u+CvexwtOg1lOPQ6PNqsOlcqee63fGv1++WyO5orulXpuZLn+UykuMojOGey/K12vGr1O6ay+2Hwet1turH4fefzu1/vOuNxOv9/v08PCq0AAADYklEQVR42uzYy06DUBRG4c3f0xvNIWkhMQEGEm1NGysObIzv/2LuYY0yspNmrzVjyJfNuWAzmtmsCB8IIIAAAggggAACCCCAAAIIIIDwbwTdd+kLBL3eaBLsjssJBFsKhLxhEuxTFQgPasIjLFS34RGOqorwCCeNIKzUgPCmHoRSHQhSAQKTwJrA7sA5gRMjdwdukfxPmCwr9eERbKk9CDnpEh7BBp278AjznZZtdAR7LvURHsFekrbTs9BuQyDYY9Jhal3oDoqBYO+lzn/vEZezyiAIlnfS/vepqd9LT+soCDYfkjZV014vBk21URpSlM/BvOyvrLoam74rur4Zq1rOkk2REJxhWOu69ZDNoiF4i+NpVZcq69XpuPDnkAg/AgEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEDwQPBA8EDwQPBA8EDwQPBA8EDwQPhG926EAAAAAAQJC/9YMUQpMwCZMwCZMwCZMwCZMwCZMwCZMwCZMwCZMwCZMwCZMwCZMwCZMwCZMwCZMwCZMwCZMwCZMwCZMwCZMwCZMwCZMwCZNQe3ay2ygQRWH46DSjocVgMS0YAtimGyfypCTv/2QpxdssrldRbupf8ACfKN2rKpNFMFkE03cilIMHnYkR3F0VMby2UJgY4cbPmh76kiIUL7wXxFDXwwjRjLKAroQIe/g01RPZYxzT7BWKEiK8oQ3IzeKTKXKSPhQlRNikKA7nttywdlOSkappKURgdQLQ5eQOI01+Aj3JEHyS03Gi+Zq/gWTo/4WeZAjxjfeeZ4yMRlWHQYoALGvtNFPWoucKJLqWBRnCqU9QJGUBdNUFHlDOmvZnGQLZTOv+liDND4iTLGxYH8/QkhTBdPTQ5x3iMuS9DkoSIwQLsGx7wA3Ixs9J7qEkGcK/SwfgwgFJ/E5W3ntN0nGhIxkCTJ7PEd21yMlTr+s8SBHS/w6fXTfM2oYVrvxsho5kCPOepjOuzBKHAQbSFGrZFmQIDU1BnLxwjStu3WKlSc2MlI/IJsVAhvDJC9yn/KjnSkGOkAEZGaUeuVmgKjFCXQIjyRRP1PYMIUNw6AwADmTgIt6FNUXV/Ck9jAC8hpS1jfgz+grh12cRLIJFsAgWwSJYBItgESyCRbAIFsEiPIRg+/MBr7RwbifZyTUAAAAASUVORK5CYII=) no-repeat;
 }
-<<<<<<< HEAD
 .custom-alert .content[data-v-0daa8b92] {
-=======
-.custom-alert .content[data-v-d24280f4] {
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
   text-align: center;
   font-size: 24px;
   padding: 75px 30px 0;
   box-sizing: border-box;
 }
-<<<<<<< HEAD
 .btn-close[data-v-0daa8b92] {
-=======
-.btn-close[data-v-d24280f4] {
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
   position: absolute;
   top: 15px;
   right: 15px;
@@ -32,95 +20,54 @@
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAz1BMVEUAAACqDBCwCxS5ChvcBTWxCxW7Chy9CR7JCCbVBi//AE7/AE7/AE7/AE6xCxWtDBLACSDiBDnjBDn/AE6yCxawCxS8Ch26Chy2CxnECSLZBjLXBjHOByvdBTXwAkLsA0C+CR/ECCTBCSHOByvICCbZBjLQByznBDz///+lDQ2xLS314+PJb2/u0dHhra2rHR368vL47Oznvr7EYGDx2trVjo69Tk65RES3PT358PDy3d3bnp7Pfn7v1dXpw8Pmu7vXlJTHaGi4QEC0NDSoFBSeAoz8AAAAKHRSTlMA/vjeRfDlyLM5EAsHBfn20lMaA/Pr5+HZo3RwWEk5Ks2nn1xSPzIlkEZV7AAAAWFJREFUKM910+d2gkAQhuERbFGxR401PfNJF4waTc/9X1NYyi6Gk/efPmeZXc5CWc3HW10roaSNby6o0HwClT4/x34NQOCEBz68OAGAWj+nF5eA5XOWbwGVstIOdjbns3foZN6P1mLLZx2+UFnFOqhhv/7rGzG/JfgesM3Ij+f6DcwET2AxC3fUaBd7z8JY7AvwOfFNXtkHot1dIWBO3LVzyhygbpAOh6WbiT6zyEG1QW2ELH1t8us6VQ6hNagEj3NuS2UPpSYBzDmHVGbAyK/mNxdigFpNpMnZvHFxMpWHaJPceaTAKRrgZu5gJM8tfsGKjx17cm6ih+St8TFS+RThPrAgaurx39tUlVuoUtQdYEtV/g5MSXSN3adUuY8fdFsxP1WQquoDGC4padGBW7hrWm9AaeVK4aYOI5Wtusk999hL7nl3SflaMx2q6pQKleujtvjGqvWeQf9kNBuNFql+ARqaa8NEC+IfAAAAAElFTkSuQmCC) no-repeat;
 }
 
-<<<<<<< HEAD
 .register[data-v-b057be3a] {
-=======
-.register[data-v-ef6dd0e4] {
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
   width: 900px;
   height: 650px;
   background: url(../img/bg_register.jpg) no-repeat;
 }
-<<<<<<< HEAD
 .register .form[data-v-b057be3a] {
-=======
-.register .form[data-v-ef6dd0e4] {
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
   position: absolute;
   right: 180px;
   bottom: 88px;
 }
-<<<<<<< HEAD
 .register .form ul li[data-v-b057be3a] {
   margin-bottom: 26px;
 }
 .register .form ul li input[data-v-b057be3a] {
-=======
-.register .form ul li[data-v-ef6dd0e4] {
-  margin-bottom: 26px;
-}
-.register .form ul li input[data-v-ef6dd0e4] {
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
   width: 160px;
   font-size: 18px;
   border: 0;
   background: transparent;
 }
-<<<<<<< HEAD
 .register .buttons[data-v-b057be3a] {
-=======
-.register .buttons[data-v-ef6dd0e4] {
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
   position: absolute;
   right: 280px;
   top: 200px;
 }
-<<<<<<< HEAD
 .register .buttons a[data-v-b057be3a] {
-=======
-.register .buttons a[data-v-ef6dd0e4] {
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
   text-decoration: none;
   color: #333;
   font-weight: bold;
   font-size: 22px;
   margin: 0 15px;
 }
-<<<<<<< HEAD
 .register .buttons a.small[data-v-b057be3a] {
-=======
-.register .buttons a.small[data-v-ef6dd0e4] {
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
   font-size: 16px;
   font-weight: normal;
 }
 
-<<<<<<< HEAD
 .readme[data-v-04fc598f] {
   background: #f6fff0 url(../img/readme_flower.png) no-repeat 0 100%;
 }
 .readme .title[data-v-04fc598f] {
-=======
-.readme[data-v-271a8418] {
-  background: #f6fff0 url(../img/readme_flower.png) no-repeat 0 100%;
-}
-.readme .title[data-v-271a8418] {
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
   width: 100%;
   text-align: center;
   padding: 30px 0;
 }
-<<<<<<< HEAD
 .readme .title img[data-v-04fc598f] {
   margin-left: -100px;
 }
 .readme .content[data-v-04fc598f] {
-=======
-.readme .title img[data-v-271a8418] {
-  margin-left: -100px;
-}
-.readme .content[data-v-271a8418] {
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
   font-size: 18px;
   color: #333;
   padding: 30px;
@@ -128,23 +75,15 @@
   min-height: 500px;
   overflow: hidden;
 }
-<<<<<<< HEAD
 .readme .content p[data-v-04fc598f] {
   text-align: justify;
 }
 .readme .content .next[data-v-04fc598f] {
-=======
-.readme .content p[data-v-271a8418] {
-  text-align: justify;
-}
-.readme .content .next[data-v-271a8418] {
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
   float: right;
   margin-top: 100px;
   margin-right: 100px;
   font-size: 28px;
 }
-<<<<<<< HEAD
 .readme .content .next a[data-v-04fc598f] {
   color: #0f54b1;
   text-decoration: none;
@@ -154,23 +93,11 @@
 }
 
 .icon-star[data-v-9943537c] {
-=======
-.readme .content .next a[data-v-271a8418] {
-  color: #0f54b1;
-  text-decoration: none;
-}
-.readme .content .next a[data-v-271a8418]:active {
-  color: #333;
-}
-
-.icon-star[data-v-a3f12d42] {
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
   width: 30px;
   height: 30px;
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAXVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9RKvvlAAAAHnRSTlMAGuZLIGwU19SchVtQOzMmDAh6d2NEs7KhiXws3t2g9mPwAAAAk0lEQVQoz9XS2w7CIAwG4HUcB4NtDHbUvv9jSoIaE0Mv9Eb/S740NG2b38k4ktz3JIdActeRvKyUgrpyggWiqCtrEVtWQZizZg/w8jhJ4MPpkzUa79HGJn8OHOTUgGNWmK3YM3ozwjInS7V3LO7qYWqPzPlS/f73DJXmEtV5TkQU5NQuvCGyLt9s7Dg+vpZya/+SGx96Cj3xlYrHAAAAAElFTkSuQmCC) no-repeat;
   background-size: 100%;
 }
-<<<<<<< HEAD
 .star[data-v-9943537c] {
   position: absolute;
 }
@@ -193,30 +120,6 @@
           animation: flash-data-v-9943537c 1.5s ease-in-out 2s infinite;
 }
 @-webkit-keyframes flash-data-v-9943537c {
-=======
-.star[data-v-a3f12d42] {
-  position: absolute;
-}
-.star.star-1[data-v-a3f12d42] {
-  left: 20%;
-  top: 50px;
-  -webkit-animation: flash-data-v-a3f12d42 1.5s ease-in-out infinite;
-          animation: flash-data-v-a3f12d42 1.5s ease-in-out infinite;
-}
-.star.star-2[data-v-a3f12d42] {
-  right: 40%;
-  bottom: 200px;
-  -webkit-animation: flash-data-v-a3f12d42 1.5s ease-in-out 1s infinite;
-          animation: flash-data-v-a3f12d42 1.5s ease-in-out 1s infinite;
-}
-.star.star-3[data-v-a3f12d42] {
-  right: 20%;
-  top: 150px;
-  -webkit-animation: flash-data-v-a3f12d42 1.5s ease-in-out 2s infinite;
-          animation: flash-data-v-a3f12d42 1.5s ease-in-out 2s infinite;
-}
-@-webkit-keyframes flash-data-v-a3f12d42 {
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
 0% {
     transform: scale(0);
 }
@@ -230,11 +133,7 @@
     transform: scale(0);
 }
 }
-<<<<<<< HEAD
 @keyframes flash-data-v-9943537c {
-=======
-@keyframes flash-data-v-a3f12d42 {
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
 0% {
     transform: scale(0);
 }
@@ -248,11 +147,7 @@
     transform: scale(0);
 }
 }
-<<<<<<< HEAD
 .wrap[data-v-9943537c] {
-=======
-.wrap[data-v-a3f12d42] {
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
   position: absolute;
   left: 0;
   top: 0;
@@ -261,7 +156,6 @@
   background: #000 url(../img/bg_login.jpg) no-repeat 0 0;
   background-size: 100%;
 }
-<<<<<<< HEAD
 .wrap a[data-v-9943537c] {
   color: #f4b684;
   text-decoration: none;
@@ -277,23 +171,6 @@
   color: #f4b684;
 }
 .wrap .content .form[data-v-9943537c] {
-=======
-.wrap a[data-v-a3f12d42] {
-  color: #f4b684;
-  text-decoration: none;
-}
-.wrap .header[data-v-a3f12d42] {
-  padding-top: 90px;
-  margin-left: 100px;
-}
-.wrap .header .logo[data-v-a3f12d42] {
-  display: block;
-}
-.wrap .content[data-v-a3f12d42] {
-  color: #f4b684;
-}
-.wrap .content .form[data-v-a3f12d42] {
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
   position: absolute;
   top: 50%;
   height: 320px;
@@ -303,7 +180,6 @@
   float: right;
   color: #fff;
 }
-<<<<<<< HEAD
 .wrap .content .form p[data-v-9943537c] {
   margin-bottom: 10px;
 }
@@ -321,34 +197,11 @@
   margin-left: 20px;
 }
 .wrap .content .form input[data-v-9943537c] {
-=======
-.wrap .content .form p[data-v-a3f12d42] {
-  margin-bottom: 10px;
-}
-.wrap .content .form ul[data-v-a3f12d42] {
-  padding-top: 60px;
-}
-.wrap .content .form ul li[data-v-a3f12d42] {
-  margin-bottom: 30px;
-}
-.wrap .content .form ul li.links[data-v-a3f12d42] {
-  text-align: right;
-  font-size: 18px;
-}
-.wrap .content .form ul li.links a[data-v-a3f12d42] {
-  margin-left: 20px;
-}
-.wrap .content .form input[data-v-a3f12d42] {
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
   font-size: 16px;
   border: 0;
   padding: 4px 6px;
 }
-<<<<<<< HEAD
 .wrap .footer[data-v-9943537c] {
-=======
-.wrap .footer[data-v-a3f12d42] {
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
   position: fixed;
   left: 0;
   bottom: 30px;
@@ -362,8 +215,4 @@
 }
 
 
-<<<<<<< HEAD
-/*# sourceMappingURL=Login.css.map?v=1513*/
-=======
-/*# sourceMappingURL=Login.css.map?v=71c2*/
->>>>>>> 6ba2c890fbca86743a6ce607e3e430373c65fcc6
+/*# sourceMappingURL=Login.css.map?v=a1bf*/
